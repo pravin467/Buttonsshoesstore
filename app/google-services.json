@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "901692389989",
+    "firebase_url": "https://buttonsshoesstoreapp.firebaseio.com",
+    "project_id": "buttonsshoesstoreapp",
+    "storage_bucket": "buttonsshoesstoreapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901692389989:android:42e7ee0694762f51",
+        "android_client_info": {
+          "package_name": "com.example.buttonsshoesstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901692389989-quo2nd0n7oi26j77l61mpu5padgtgmvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buttonsshoesstoreapp",
+            "certificate_hash": "30473c8d39da3a1242015fd46e347d139b588dd2"
+          }
+        },
+        {
+          "client_id": "901692389989-antagbjqs8go188eqoodsufdhr0rleml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZUmS5czDQHOEh6icOe7Adq_O9C3UpBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901692389989-antagbjqs8go188eqoodsufdhr0rleml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901692389989:android:b5a6275b9ef2636c",
+        "android_client_info": {
+          "package_name": "com.example.buttonsshoestoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901692389989-17a1q1qrvq09soqt9fp67o7o9fnrik9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buttonsshoestoreapp",
+            "certificate_hash": "30473c8d39da3a1242015fd46e347d139b588dd2"
+          }
+        },
+        {
+          "client_id": "901692389989-antagbjqs8go188eqoodsufdhr0rleml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZUmS5czDQHOEh6icOe7Adq_O9C3UpBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901692389989-antagbjqs8go188eqoodsufdhr0rleml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
