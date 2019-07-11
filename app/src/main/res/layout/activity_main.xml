@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@drawable/sp"
+    android:background="@drawable/shoe"
     android:layout_height="match_parent"
 
     tools:context=".MainActivity">
@@ -12,27 +12,26 @@
     <ImageView
         android:id="@+id/logo"
         android:layout_width="300dp"
-        android:layout_height="100dp"
+        android:layout_height="250dp"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
-        android:src="@drawable/logo"
-        />
+        android:src="@drawable/logo" />
 
 
     <TextView
         android:id="@+id/slogan"
         android:layout_width="220dp"
         android:layout_height="wrap_content"
-       android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
-        android:layout_marginEnd="75dp"
-        android:layout_marginTop="145dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="258dp"
+        android:layout_marginEnd="94dp"
         android:text="Discover find and choose what ever you like!"
         android:textAlignment="center"
-        android:textColor="@color/colorPrimary"
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
         android:textSize="25sp"
-        android:textStyle="bold|italic"
-        />
+        android:textStyle="bold|italic" />
 
 
     <Button
